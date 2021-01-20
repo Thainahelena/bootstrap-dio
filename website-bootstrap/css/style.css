@@ -1,0 +1,38 @@
+body {
+    font-family: 20px Arial, Helvetica, sans-serif;
+    color: rgb(105, 100, 100);
+}
+
+.navbar {
+    padding-left: 40px;
+    background-color: #dfb184;
+}
+
+.quemsomos {
+    background-color: white;
+}
+
+.padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.servicos {
+    background-color:rgb(250, 241, 228);
+}
+
+.parceiros {
+    background-color: white;
+}
+
+.p {
+    margin-top: 10px;
+    text-align: justify center;
+}
+
+  .bg-footer{
+    background-color: #dfb184;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    color: black;
+}

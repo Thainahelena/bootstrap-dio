@@ -20,7 +20,7 @@
 
 Repositório dedicado a resoluções de todos os exercícios propostos no curso de Criação De Websites Com Bootstrap, matéria introdutória do **BootCamp HTML Web Developer da Digital Innovation One**, ministrada pelo Professor e Desenvolvedor Rafael Galleani, em janeiro de 2021.
 
-Para ter acesso a este conteúdo, acesse a [DIO](https://web.digitalinnovation.one/)                                   
+Para ter acesso a este conteúdo, acesse a [**DIO**](https://web.digitalinnovation.one/)                                   
 
 ## 💻 Projeto
 
@@ -37,7 +37,7 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 *Dedicated repository to solving all the exercises proposed in to Creating Websites With Bootstrap, introductory subject of **Digital Innovation One's BootCamp, HTML Web Developer**, taught by Professor and Developer Rafael Galleani, in January 2021.*
 
-*To access this content, visit [DIO](https://web.digitalinnovation.one/)*                                  
+*To access this content, visit [**DIO**](https://web.digitalinnovation.one/)*                                  
 
 ## 💻 Project
 
